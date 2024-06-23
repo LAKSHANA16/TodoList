@@ -1,4 +1,3 @@
-# TodoList
 
 <!DOCTYPE html>
 <html lang="en">
